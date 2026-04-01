@@ -79,6 +79,12 @@ https://yeshwanth1953.github.io/RecipeBook/
 
 ---
 
+📸 Screenshots
+
+<img width="1919" height="1079" alt="Screenshot 2026-04-01 231559" src="https://github.com/user-attachments/assets/dfc34eb2-0c99-4a3f-9f30-8e0cdaeb319c" />
+
+---
+
 ## 🔮 Future Improvements
 
 * 🍳 Add search functionality
