@@ -89,13 +89,14 @@ https://yeshwanth1953.github.io/RecipeBook/
 
 ---
 
-## 👨‍💻 Author
+## 👤 About Me
 
-Yeshwanth Vutukuru
+**Yeshwanth Vutukuru**
 
-GitHub: https://github.com/Yeshwanth1953
-Email: [yeshwanthvutukuru31@gmail.com](mailto:yeshwanthvutukuru31@gmail.com)
-Linkedin: https://www.linkedin.com/in/yeshwanth-vutukuru/
+* GitHub: https://github.com/Yeshwanth1953
+* LinkedIn: https://www.linkedin.com/in/yeshwanth-vutukuru/
+* Email: [yeshwanthvutukuru31@gmail.com](mailto:yeshwanthvutukuru31@gmail.com)
+
 
 ---
 
