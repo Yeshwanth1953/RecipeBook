@@ -79,12 +79,6 @@ https://yeshwanth1953.github.io/RecipeBook/
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your project UI here for better presentation)
-
----
-
 ## 🔮 Future Improvements
 
 * 🍳 Add search functionality
